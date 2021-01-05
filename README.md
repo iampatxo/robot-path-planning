@@ -1,5 +1,5 @@
 # Robot Path Planning with UI
-A little project to run different path planning using a simple UI - Streamlit.
+A little project to run different path plannings using a simple UI - Streamlit.
 
 ## How to run
 ```
